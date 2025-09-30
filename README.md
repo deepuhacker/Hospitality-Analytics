@@ -22,4 +22,4 @@ The dashboard helps stakeholders track sales performance, understand customer en
 
 ## Author
 Name: Makala Deepak
-📧 Contact: [https://www.linkedin.com/in/makala-deepak-63471425a/](Makala Deepak)
+📧 Contact: [Makala Deepak](https://www.linkedin.com/in/makala-deepak-63471425a/)
