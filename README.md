@@ -10,7 +10,7 @@ The dashboard helps stakeholders track sales performance, understand customer en
 
 ## Dashboards
 ### Excel Dashboard
-  ![Excel](https://github.com/deepuhacker/Hospitality-Analytics/blob/main/Excel%20dashboard.png)
+  ![Excel](https://github.com/deepuhacker/Hospitality-Analytics/blob/main/Excel.png)
 ### Tableau dashboard
   ![Tableau](https://github.com/deepuhacker/Hospitality-Analytics/blob/main/Tableau%201.png)
   ![Tableau](https://github.com/deepuhacker/Hospitality-Analytics/blob/main/Tableau%202.png)
